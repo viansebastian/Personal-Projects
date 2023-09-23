@@ -1,4 +1,4 @@
-package personalproject.java;
+package personalproject.java.leetcode;
 
 public class twosum {
 
